@@ -1,0 +1,167 @@
+# 🤖 Agente 02 – Planejador de Carreira em Tecnologia
+
+## 📌 Sobre o Agente
+
+O Agente 02 é responsável por transformar a carreira escolhida em um plano estratégico estruturado.
+
+Diferente do Agente 01 (Entrevistador), este agente NÃO faz perguntas investigativas longas nem ranqueia carreiras. Ele recebe os dados já definidos e gera um plano completo e personalizado de desenvolvimento profissional.
+
+Sua função é organizar direção, clareza e execução.
+
+---
+
+## 🎯 Missão do Agente 02
+
+- Traduzir a carreira escolhida em um plano de ação
+- Definir roadmap estruturado (90 ou 120 dias)
+- Mapear habilidades essenciais e complementares
+- Sugerir projeto de portfólio estratégico
+- Preparar roteiro para entrevistas
+- Indicar trilha de cursos alinhada ao objetivo
+- Adaptar tudo conforme:
+  - Tempo disponível
+  - Nível de experiência
+  - Objetivo profissional
+
+---
+
+## 🧠 Estrutura de Funcionamento
+
+O Agente 02 opera a partir de dados recebidos do Agente 01 ou do usuário.
+
+---
+
+## 📥 Dados de Entrada
+
+O agente recebe:
+
+- CARREIRA_ESCOLHIDA  
+- HORAS_SEMANA  
+- EXPERIENCIA (zero / iniciante / alguma)  
+- OBJETIVO (primeiro emprego / transição / crescimento)  
+- PREFERENCIA (pessoas / dados / código)  
+- INTERESSES (tecnologias específicas)
+
+---
+
+## 📦 Estrutura da Entrega
+
+O Agente 02 gera obrigatoriamente:
+
+### 🧩 1. Visão do Dia a Dia
+Explica como funciona a rotina da carreira escolhida.
+
+---
+
+### 🧠 2. Mapa de Skills
+
+Dividido em:
+
+**CORE SKILLS (Essenciais)**  
+Competências obrigatórias para atuar na área.
+
+**NICE-TO-HAVE (Complementares)**  
+Diferenciais competitivos.
+
+**Ferramentas e Tecnologias**  
+Stack prática exigida pelo mercado.
+
+---
+
+### 📅 3. Roadmap Estruturado
+
+Organizado por:
+
+- Meses
+- Semanas
+- Metas claras
+- Entregáveis práticos
+- Adaptação ao tempo disponível
+
+Regras de adaptação:
+
+- Menos de 5h semanais → foco no essencial
+- 5–10h → estrutura padrão
+- +15h → projetos avançados e aprofundamento
+
+---
+
+### 🚀 4. Projeto de Portfólio
+
+Inclui:
+
+- Nome do projeto
+- Escopo detalhado
+- Entregáveis
+- Critérios de aceitação
+- Dica estratégica para execução
+
+Foco principal: empregabilidade.
+
+---
+
+### 💬 5. Roteiro de Entrevistas
+
+Simulação de 5 perguntas comuns para nível júnior.
+
+Cada pergunta contém:
+- Como estruturar a resposta
+- Exemplo prático
+- Linguagem adequada para entrevistas
+
+---
+
+### 🎓 6. Trilha de Cursos Recomendada
+
+Inclui:
+
+- Nome da trilha ou formação
+- Justificativa estratégica
+- Próximos passos claros
+- Possível integração com GitHub
+
+---
+
+## 📊 Exemplo de Aplicação
+
+Com os seguintes dados:
+
+- Carreira escolhida: Analista de Dados  
+- 5 horas semanais  
+- Experiência: zero  
+- Objetivo: primeiro emprego  
+- Preferência: código  
+- Interesse: Python  
+
+O Agente 02 gerou:
+
+- Roadmap de 120 dias  
+- Inclusão de GitHub no cronograma  
+- Projeto de análise de vendas  
+- Preparação para entrevistas  
+- Lista de cursos complementares (Python, JavaScript e SQL Server)  
+- Planilha estruturada para organização semanal  
+
+---
+
+## ⚙️ Conceitos Aplicados
+
+- Engenharia de Prompt
+- Personalização baseada em variáveis
+- Organização modular de plano de carreira
+- Estruturação de roadmap progressivo
+- Foco em empregabilidade
+- Simulação de agente especialista
+
+---
+
+## 📎 Observação
+
+O Agente 02 atua exclusivamente como planejador estratégico.
+
+Ele não realiza entrevista inicial nem ranqueia carreiras.  
+Ele executa planejamento estruturado a partir de uma decisão já tomada.
+
+---
+
+✨ Objetivo final: transformar intenção em plano executável.
