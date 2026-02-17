@@ -1,4 +1,4 @@
-# 🤖 Bootcamp CAIXA Inteligência Artificial na Prática — Projetos e Aplicações
+# Bootcamp CAIXA Inteligência Artificial na Prática — Projetos e Aplicações
 
 Bem-vindo(a) ao meu repositório do Bootcamp da CAIXA Inteligência Artificial na Prática 🚀  
 Aqui compartilho meus projetos, estudos e experimentos desenvolvidos ao longo da jornada.
