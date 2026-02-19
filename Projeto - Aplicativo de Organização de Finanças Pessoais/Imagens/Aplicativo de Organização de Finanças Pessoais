@@ -1,0 +1,79 @@
+# Projeto – Aplicativo de Organização de Finanças Pessoais
+
+## PRD Final
+
+### 1. Contexto
+Criar um aplicativo de organização financeira pessoal que funcione por meio de conversas em linguagem natural.  
+O objetivo é simplificar o controle financeiro, eliminando formulários complexos e planilhas, oferecendo uma experiência fluida, acessível e inclusiva.
+
+### 2. Problema
+- Usuários desistem de controlar seus gastos porque os apps atuais exigem muita entrada manual.  
+- Falta personalização e recomendações práticas.  
+- Necessidade de uma solução mais intuitiva, conversacional e universalmente acessível.
+
+### 3. Público-Alvo
+- Pessoas que desejam começar a organizar suas finanças de forma prática.  
+- Principalmente iniciantes que não têm familiaridade com planilhas ou apps tradicionais.  
+- Usuários que preferem interações simples e naturais.  
+- Todos os perfis de usuários, incluindo pessoas com deficiência, idosos e estrangeiros, graças ao uso de princípios de Design Universal.
+
+### 4. Funcionalidades-Chave
+1. Registro de gastos via chat em linguagem natural.  
+2. Classificação automática das transações (alimentação, transporte, lazer etc.).  
+3. Definição e acompanhamento de metas financeiras (ex.: economizar R$200/mês).  
+4. Agente Financeiro que fornece dicas personalizadas de economia.  
+5. Relatórios simples e personalizados, com visualização clara de gastos e progresso.  
+6. Contraste e legibilidade otimizados para pessoas com baixa visão.  
+7. Compatibilidade com leitores de tela, garantindo acessibilidade plena.  
+8. Personalização da interface (modo claro/escuro, tamanho da fonte, disposição dos elementos).  
+9. Tradução automática da interface e do chat para diferentes idiomas, ampliando alcance global.  
+10. Tela de login com autenticação segura (usuário e senha, opção de login social e autenticação em dois fatores).  
+
+### 5. Entregável da IA (MVP)
+- Principais telas:  
+  - Tela de login e autenticação.  
+  - Tela de chat (entrada de dados e interação com o agente).  
+  - Tela de metas financeiras.  
+  - Tela de relatórios simples.  
+- Recursos necessários:  
+  - Processamento de linguagem natural (NLP).  
+  - Motor de categorização automática.  
+  - Sistema de notificações e recomendações.  
+  - Diretrizes de acessibilidade e design universal (contraste, leitores de tela, personalização).  
+  - Tradução automática multilíngue.  
+  - Módulo de autenticação segura (armazenamento criptografado, login social, autenticação em dois fatores).  
+- Validação inicial:  
+  - Teste com grupo piloto diverso (incluindo iniciantes, idosos e pessoas com deficiência).  
+  - Coleta de feedback sobre clareza, facilidade de uso e utilidade das recomendações.  
+  - Ajustes iterativos com base na experiência real.  
+
+---
+
+## 📌 Resumo do App - https://comfy-cash-chat.lovable.app
+O aplicativo de Finanças Pessoais permite que o usuário organize seus gastos e metas financeiras por meio de conversas em linguagem natural.  
+Ele classifica automaticamente transações, sugere dicas de economia, gera relatórios simples e personalizados e garante acessibilidade universal com contraste adequado, compatibilidade com leitores de tela, personalização da interface e tradução automática para diferentes idiomas.  
+Além disso, possui tela de login com autenticação segura para proteger os dados financeiros.
+
+---
+
+## ✨ Reflexão sobre o Processo
+
+### O que funcionou bem
+- A conversação com a IA foi clara e ajudou a estruturar o PRD.  
+- Os registros e ajustes feitos durante o processo foram bem organizados e resultaram em um documento final consistente.  
+
+### O que não funcionou como o esperado
+- O registro das economias nas metas: quando solicitado para adicionar valores às metas, a funcionalidade não respondeu como esperado.  
+- Algumas funcionalidades previstas no PRD **não foram aplicadas**, como:  
+  - Sistema de notificações e recomendações.  
+  - Diretrizes de acessibilidade e design universal (contraste, leitores de tela, personalização).  
+  - Tradução automática multilíngue.  
+  - Módulo de autenticação segura (armazenamento criptografado, login social, autenticação em dois fatores).  
+  - Validação inicial com grupo piloto diverso.  
+  - Coleta de feedback sobre clareza, facilidade de uso e utilidade das recomendações.  
+  - Ajustes iterativos com base na experiência real.  
+
+### O que aprendi sobre conversar com IAs
+- Às vezes a IA não calcula corretamente ou adiciona valores extras sem intenção.  
+- É importante ser específico e detalhado nos pedidos para obter respostas mais precisas.  
+- A interação é útil para estruturar ideias e documentos, mas requer revisão crítica para garantir consistência.  
